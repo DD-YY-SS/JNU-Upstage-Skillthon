@@ -1,0 +1,44 @@
+{
+  "name": "solar-skill-creator",
+  "version": "1.0.1",
+  "description": "Create and refine Codex skills powered by Upstage Solar APIs for the JNU Upstage Skillthon.",
+  "author": {
+    "name": "JNU Upstage Skillthon",
+    "email": "gobeumsu@gmail.com",
+    "url": "https://github.com/DD-YY-SS/JNU-Upstage-Skillthon"
+  },
+  "homepage": "https://github.com/DD-YY-SS/JNU-Upstage-Skillthon",
+  "repository": "https://github.com/DD-YY-SS/JNU-Upstage-Skillthon",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "upstage",
+    "solar",
+    "skills",
+    "jnu",
+    "skillthon"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Solar Skill Creator",
+    "shortDescription": "Build Codex skills with Upstage Solar APIs",
+    "longDescription": "Guide participants through ideation, API selection, environment setup, and authoring for Codex-native skills powered by Upstage Solar and document intelligence APIs.",
+    "developerName": "JNU Upstage Skillthon",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/DD-YY-SS/JNU-Upstage-Skillthon",
+    "privacyPolicyURL": "https://github.com/DD-YY-SS/JNU-Upstage-Skillthon",
+    "termsOfServiceURL": "https://github.com/DD-YY-SS/JNU-Upstage-Skillthon",
+    "defaultPrompt": [
+      "Build a new Codex skill with Upstage Solar",
+      "Turn this workflow into a reusable Codex skill",
+      "Improve my existing Upstage-powered skill"
+    ],
+    "brandColor": "#1D4ED8",
+    "screenshots": []
+  }
+}
